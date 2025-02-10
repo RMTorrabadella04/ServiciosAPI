@@ -1,0 +1,24 @@
+Button{
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+    -fx-background-color: #84bf84;
+}
+Button:hover{
+    -fx-background-color: #72a672;
+    -fx-text-fill: #ffffff;
+}
+Label {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+.Titule{
+    -fx-font-size: 40px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+AnchorPane{
+    -fx-background-color: #fdffe3;
+}
